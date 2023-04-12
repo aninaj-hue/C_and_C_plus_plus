@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636370040 source:c:\users\janina\desktop\pclp lab- seminar\binara\main.c
+	<stdio.h>
+	<stdlib.h>
+

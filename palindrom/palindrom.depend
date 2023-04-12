@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636975246 source:c:\users\janina\desktop\pclp lab- seminar\palindrom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

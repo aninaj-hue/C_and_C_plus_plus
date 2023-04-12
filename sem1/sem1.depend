@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1633337397 source:c:\users\janina\desktop\lab 2\sem1\source.c
+	<stdio.h>
+	<stdlib.h>
+
+1633340117 source:c:\users\janina\desktop\lab 2\sem1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hello.h"
+
+1633338349 c:\users\janina\desktop\lab 2\sem1\hello.h
+
+1633337397 source:c:\users\janina\desktop\progaramare seminar1\sem1\source.c
+	<stdio.h>
+	<stdlib.h>
+
+1633340534 source:c:\users\janina\desktop\progaramare seminar1\sem1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hello.h"
+
+1633338349 c:\users\janina\desktop\progaramare seminar1\sem1\hello.h
+
+1633340534 source:c:\users\janina\desktop\pclp lab- seminar\sem1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hello.h"
+
+1633338349 c:\users\janina\desktop\pclp lab- seminar\sem1\hello.h
+
+1633337397 source:c:\users\janina\desktop\pclp lab- seminar\sem1\source.c
+	<stdio.h>
+	<stdlib.h>
+

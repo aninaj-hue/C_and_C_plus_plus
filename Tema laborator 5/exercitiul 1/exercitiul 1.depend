@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636887952 source:c:\users\janina\desktop\pclp lab- seminar\tema laborator 5\exercitiul 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

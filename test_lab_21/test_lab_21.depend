@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643027895 source:c:\users\janina\desktop\pclp lab- seminar\test_lab_21\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
